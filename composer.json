@@ -1,13 +1,12 @@
 {
-    "name": "tomk79/color_utils",
-    "description": "color_utils は、色コードに関するユーティリティ集です。",
+    "name": "tomk79/color-utils",
+    "description": "色コードに関するユーティリティ集です。",
     "keywords": [],
     "license": "MIT",
     "authors": [
         {
             "name": "Tomoya Koyanagi",
-            "email": "tomk79@gmail.com",
-            "homepage": "http://www.pxt.jp/"
+            "email": "tomk79@gmail.com"
         }
     ],
     "require": {
@@ -16,8 +15,10 @@
     "require-dev": {
     },
     "autoload": {
-        "files": [
-            "php/color_utils.php"
-        ]
+        "psr-4": {
+            "tomk79\\colorUtils\\": [
+                "php"
+            ]
+        }
     }
 }

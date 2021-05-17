@@ -1,13 +1,13 @@
 <?php
 /**
- * tomk79/color_utils
+ * tomk79/color-utils
  * 
  * @author Tomoya Koyanagi <tomk79@gmail.com>
  */
-namespace tomk79\color_utils;
+namespace tomk79\colorUtils;
 
 /**
- * tomk79/color_utils core class
+ * tomk79/color-utils core class
  * 
  * @author Tomoya Koyanagi <tomk79@gmail.com>
  */
