@@ -6,9 +6,9 @@ tomk79/color-utils
 
 ## 更新履歴 - Change log
 
-### tomk79/color-utils v0.0.1 (リリース日未定)
+### tomk79/color-utils v0.0.1 (2021年5月17日)
 
-- テーマのスタートアップ機能を追加。
+- Initial Release.
 
 
 ## ライセンス - License
